@@ -10,4 +10,16 @@ management:
         include: "*"
 
 
+##Static Info##
+info:
+  application:
+    name: spring-boot-actuator
+    description: Test App for learning
+    arctifact: springboot-actuator
+    version: v1
+  techstack:
+    java: open jdk 8
+    spring boot: 2.4.2
+    database: Temp Data Using HashMap
+
 
