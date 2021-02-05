@@ -10,4 +10,10 @@ management:
         include: "*"
 
 
-
+##Static Info##
+info:
+  application:
+    name: spring-boot-actuator
+    description: Test App for learning
+    arctifact: springboot-actuator
+    version: v1
